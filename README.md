@@ -21,3 +21,4 @@ This is used to demonstra the Scriptable, writing iOS widget without using any S
 ## More widget from me
 1. [Australian News Widget](https://github.com/AngusTse/ios-scriptable-ausnews-widget/)
 2. [Download video tag](https://github.com/AngusTse/ios-scriptable-download-video/)
+3. [TS boilerplate](https://github.com/jasperhartong/scriptable-ts-boilerplate)
