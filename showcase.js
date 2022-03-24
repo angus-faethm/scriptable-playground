@@ -42,7 +42,7 @@ const getLocationRow = () => {
 getNotificationRow = async() => {
     const onTap = async() => {
         let currentDate = new Date;
-        let newDate = new Date(currentDate.getTime() + (delaySeconds * 1000));
+        let newDate = new Date(currentDate.getTime() + (1 * 1000));
         ntf= new Notification();
         ntf.openURL = "scriptable:///run";
         ntf.title = "Pilot script for notifications";
