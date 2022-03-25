@@ -2,6 +2,10 @@
 
 This is used to demonstra the Scriptable, writing iOS widget without using any Swift and ObjectiveC.
 
+[Scriptable](https://scriptable.app/)
+
+[Documentation](https://docs.scriptable.app/)
+
 ## Demo 1
 1. Install Scriptable from App Store2. 
 2. open [showcase.js](showcase.js]) and copy all code.
