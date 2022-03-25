@@ -8,7 +8,7 @@ This is used to demonstra the Scriptable, writing iOS widget without using any S
 
 ## Demo 1
 1. Install Scriptable from App Store2. 
-2. open [showcase.js](showcase.js]) and copy all code.
+2. open [showcase.js](showcase.js) and copy all code.
 3. Launch the app and create a new script.
 4. Paste the script
 5. Click the "Run" Button
